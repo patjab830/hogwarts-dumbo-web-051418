@@ -3,6 +3,7 @@
   text-align: center;
 }
 
+
 .TwirlyPig {
   transition: all 3s ease-in-out;
   display: inline;
@@ -131,6 +132,23 @@ ul {
 .footer {
   padding: 1%;
   clear: both;
+}
+
+.keepInline {
+  display: inline;
+}
+
+
+#fullNav {
+  border: 0px solid;
+  float: left;
+}
+
+#fullDisplay {
+
+  border: 0px solid;
+  float: right;
+
 }
 
 
